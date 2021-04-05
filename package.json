@@ -1,0 +1,16 @@
+{
+  "name": "doublelinkedlist",
+  "version": "1.0.0",
+  "description": "Exposes functions to implement Doubly Linked Lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Double",
+    "Linked",
+    "List"
+  ],
+  "author": "guandaru",
+  "license": "ISC"
+}
